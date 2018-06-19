@@ -29,7 +29,7 @@ Follow the step for installation:
 - Login with your Google account to manage the catalog
 
 ## Licensing
-Not licensed. This is a nanodegree project for udacity.
+Not licensed.
 
 ## Contacts
 If you want to be informed about new code releases, visit this website.
